@@ -27,6 +27,8 @@ fetch('/array')
 
 //console.log(await(await fetch('/array').json()) //need to be in async function call
 
+//i'm going to add a line for kicks 
+
 function App() {
   return (
     <div className="App">
